@@ -1,5 +1,6 @@
+
 #main-navbar {
-  background-color: blue;
+  background-color: Purple;
   overflow: hidden;
 }
 
@@ -43,7 +44,7 @@
 #sidebar {
   position: fixed;
   right:0%;
-  background-color: red;
+  background-color: Pink;
   height: 100%;
   width: 20%;
 }
@@ -64,4 +65,5 @@
 #sidebar ul li a:hover {
   background-color: #000;
 } 
+
 
